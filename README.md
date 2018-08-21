@@ -1,5 +1,6 @@
 # Detroit-Blight-Ticket-Compliance
 Help end blight in Detroit. Kaggle Machine Learning Project.
+
 Origin URL: https://www.kaggle.com/c/detroit-blight-ticket-compliance
 
 1. Create a machine learning model in scikit-learn to study Detroit’s blight ticket compliance issue.
